@@ -14,7 +14,6 @@ body {
 }
 .goods-list {
   overflow: hidden;
-  padding-bottom: 0.98666667rem;
 }
 .goods-group {
   display: flex;
@@ -199,6 +198,23 @@ body {
   height: 0.69333333rem;
   background-color: #2ce2d3;
 }
+.more-btn {
+  padding-left: 0.45333333rem;
+  padding-right: 0.45333333rem;
+  margin-bottom: 0.26666667rem;
+  margin-top: 0.26666667rem;
+}
+.more-btn span {
+  display: block;
+  height: 1.48rem;
+  line-height: 1.48rem;
+  background-color: #8ffff6;
+  text-align: center;
+  font-size: 19px;
+  letter-spacing: 2px;
+  color: #009d90;
+  border-radius: 10px;
+}
 .filter-form {
   padding-left: 0.45333333rem;
   padding-right: 0.45333333rem;
@@ -214,7 +230,7 @@ body {
   padding-bottom: 0.2rem;
   border-radius: 5px;
   background-color: #00aea1;
-  align-items: center;;
+  align-items: center;
 }
 .filter-text {
   display: flex;
