@@ -215,19 +215,19 @@ body {
   color: #009d90;
   border-radius: 10px;
 }
-[data-dpr="2"] .filter-text .font-34 {
+[data-dpr="2"] .more-btn span {
   font-size: 38px;
 }
-[data-dpr="2.5"] .filter-text .font-34 {
+[data-dpr="2.5"] .more-btn span {
   font-size: 47.5px;
 }
-[data-dpr="2.75"] .filter-text .font-34 {
+[data-dpr="2.75"] .more-btn span {
   font-size: 52.25px;
 }
-[data-dpr="3"] .filter-text .font-34 {
+[data-dpr="3"] .more-btn span {
   font-size: 57px;
 }
-[data-dpr="4"] .filter-text .font-34 {
+[data-dpr="4"] .more-btn span {
   font-size: 76px;
 }
 .filter-form {
